@@ -3,6 +3,8 @@ discourse-migratepassword
 
 Support migrated password hashes
 
+> [!NOTE]
+> This is a fork for my fluxbb migration.
 
 Installation
 ============
